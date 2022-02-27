@@ -1,0 +1,92 @@
+﻿X,Y,NAME,WEB_URL,LINE
+-77.16462968,39.11993515,Shady Grove,https://www.wmata.com/rider-guide/stations/shady-grove.cfm,red
+-77.14612767,39.08432943,Rockville,https://www.wmata.com/rider-guide/stations/rockville.cfm,red
+-77.12082028,39.06247547,Twinbrook,https://www.wmata.com/rider-guide/stations/twinbrook.cfm,red
+-77.05355966,39.06179158,Glenmont,https://www.wmata.com/rider-guide/stations/glenmont.cfm,red
+-77.11283218,39.04815917,White Flint,https://www.wmata.com/rider-guide/stations/white-flint.cfm,red
+-77.05010936,39.03753496,Wheaton,https://www.wmata.com/rider-guide/stations/wheaton.cfm,red
+-77.10385204,39.02927676,Grosvenor-Strathmore,https://www.wmata.com/rider-guide/stations/grosvenor.cfm,red
+-77.04291885,39.01496208,Forest Glen,https://www.wmata.com/rider-guide/stations/forest-glen.cfm,red
+-76.91105983,39.01115367,Greenbelt,https://www.wmata.com/rider-guide/stations/greenbelt.cfm,"green, yellow"
+-77.0969546,39.00006429,Medical Center,https://www.wmata.com/rider-guide/stations/medical-center.cfm,red
+-77.03102012,38.99395718,Silver Spring,https://www.wmata.com/rider-guide/stations/silver-spring.cfm,red
+-77.0941315,38.98440146,Bethesda,https://www.wmata.com/rider-guide/stations/bethesda.cfm,red
+-76.92812724,38.97864144,College Park-U of Md,https://www.wmata.com/rider-guide/stations/college-park.cfm,"green, yellow"
+-77.01817899,38.97608633,Takoma,https://www.wmata.com/rider-guide/stations/takoma.cfm,red
+-76.95588378,38.96539325,Prince George's Plaza,https://www.wmata.com/rider-guide/stations/prince-georges-plz.cfm,"green, yellow"
+-77.08499811,38.95949167,Friendship Heights,https://www.wmata.com/rider-guide/stations/friendship-hghts.cfm,red
+-76.96957895,38.95504797,West Hyattsville,https://www.wmata.com/rider-guide/stations/west-hyattsville.cfm,"green, yellow"
+-77.00220536,38.95185457,Fort Totten,https://www.wmata.com/rider-guide/stations/fort-totten.cfm,"red, green,yellow"
+-77.07958963,38.94885923,Tenleytown-AU,https://www.wmata.com/rider-guide/stations/tenleytown.cfm,red
+-77.34006222,38.94774066,Wiehle-Reston East,https://www.wmata.com/rider-guide/stations/wiehle-reston.cfm,silver
+-76.87184353,38.94779266,New Carrollton,https://www.wmata.com/rider-guide/stations/new-carrollton.cfm,orange
+-77.06298848,38.94327308,Van Ness-UDC,https://www.wmata.com/rider-guide/stations/van-ness.cfm,red
+-77.02346319,38.93744242,Georgia Ave-Petworth,https://www.wmata.com/rider-guide/stations/georgia-ave.cfm,"green, yellow"
+-77.05804482,38.93477068,Cleveland Park,https://www.wmata.com/rider-guide/stations/cleveland-park.cfm,red
+-76.89120021,38.93351403,Landover,https://www.wmata.com/rider-guide/stations/landover.cfm,orange
+-76.99453656,38.93321879,Brookland-CUA,https://www.wmata.com/rider-guide/stations/brookland.cfm,red
+-77.24156035,38.92895963,Spring Hill,https://www.wmata.com/rider-guide/stations/spring-hill.cfm,silver
+-77.03255441,38.92784576,Columbia Heights,https://www.wmata.com/rider-guide/stations/columbia-hghts.cfm,"green, yellow"
+-77.05242032,38.92509293,Woodley Park-Zoo Adams Morgan,https://www.wmata.com/rider-guide/stations/woodley-park.cfm,red
+-77.21008129,38.92452955,McLean,https://www.wmata.com/rider-guide/stations/mclean.cfm,silver
+-77.2338802,38.92096318,Greensboro,https://www.wmata.com/rider-guide/stations/greensboro.cfm,silver
+-76.99593919,38.92106748,Rhode Island Ave,https://www.wmata.com/rider-guide/stations/rhode-island-ave.cfm,red
+-77.22171803,38.92068205,Tysons Corner,https://www.wmata.com/rider-guide/stations/tysons-corner.cfm,silver
+-77.02749818,38.91701019,U St/African-Amer Civil War Memorial/Cardozo,https://www.wmata.com/rider-guide/stations/u-street.cfm,"green, yellow"
+-76.9166303,38.91663965,Cheverly,https://www.wmata.com/rider-guide/stations/cheverly.cfm,orange
+-77.02191399,38.91348466,Shaw-Howard Univ,https://www.wmata.com/rider-guide/stations/shaw-howard.cfm,"green, yellow"
+-77.04341665,38.90960585,Dupont Circle,https://www.wmata.com/rider-guide/stations/dupont-circle.cfm,red
+-76.93525904,38.90818629,Deanwood,https://www.wmata.com/rider-guide/stations/deanwood.cfm,orange
+-77.00302273,38.907024,NoMa-Gallaudet U,https://www.wmata.com/rider-guide/stations/new-york-ave.cfm,red
+-77.02191667,38.9064446,Mt Vernon Sq - 7th St Convention Center,https://www.wmata.com/rider-guide/stations/mt-vernon-sq.cfm,"green, yellow"
+-77.03970312,38.90320973,Farragut North,https://www.wmata.com/rider-guide/stations/farragut-north.cfm,red
+-77.03363646,38.90134058,McPherson Sq,https://www.wmata.com/rider-guide/stations/mcpherson-sq.cfm,"blue, orange, silver"
+-77.04069771,38.90132068,Farragut West,https://www.wmata.com/rider-guide/stations/farragut-west.cfm,"blue, orange, silver"
+-77.18909716,38.90078833,West Falls Church VT/UVA,https://www.wmata.com/rider-guide/stations/w-falls-church.cfm,orange
+-77.05028003,38.90070579,Foggy Bottom-GWU,https://www.wmata.com/rider-guide/stations/foggy-bottom.cfm,"blue, orange, silver"
+-76.84455387,38.90060752,Largo Town Center,https://www.wmata.com/rider-guide/stations/largo-town-ctr.cfm,"blue, orange, silver"
+-76.94674999,38.89919901,Minnesota Ave,https://www.wmata.com/rider-guide/stations/minnesota-ave.cfm,orange
+-77.02191767,38.8983246,Gallery Pl-Chinatown,https://www.wmata.com/rider-guide/stations/gallery-place.cfm,"red, green, yellow"
+-77.02808028,38.89832226,Metro Center,https://www.wmata.com/rider-guide/stations/metro-center.cfm,"red, blue, orange, silver"
+-77.00741657,38.89777383,Union Station,https://www.wmata.com/rider-guide/stations/union-station.cfm,red
+-77.01664124,38.8960981,Judiciary Square,https://www.wmata.com/rider-guide/stations/judiciary-sq.cfm,red
+-77.07091098,38.89598688,Rosslyn,https://www.wmata.com/rider-guide/stations/rosslyn.cfm,"blue, orange, silver"
+-76.868077,38.89384272,Morgan Boulevard,https://www.wmata.com/rider-guide/stations/morgan-blvd.cfm,"blue, orange, silver"
+-77.02191667,38.89367301,Archives-Navy Mem'l,https://www.wmata.com/rider-guide/stations/archives.cfm,"green, yellow"
+-77.02813428,38.89318866,Federal Triangle,https://www.wmata.com/rider-guide/stations/federal-triangle.cfm,"blue, orange, silver"
+-76.93836713,38.89098346,Benning Road,https://www.wmata.com/rider-guide/stations/benning-rd.cfm,"blue, orange, silver"
+-77.08713354,38.89018331,Court House,https://www.wmata.com/rider-guide/stations/court-house.cfm,"orange, silver"
+-76.91181036,38.88947365,Capitol Heights,https://www.wmata.com/rider-guide/stations/capitol-hghts.cfm,"blue, orange, silver"
+-77.02806852,38.88802649,Smithsonian,https://www.wmata.com/rider-guide/stations/smithsonian.cfm,"blue, orange, silver"
+-76.89411015,38.88675561,Addison Road Seat Pleasant,https://www.wmata.com/rider-guide/stations/addison-rd.cfm,"blue, orange, silver"
+-77.09539641,38.88671262,Clarendon,https://www.wmata.com/rider-guide/stations/clarendon.cfm,"orange, silver"
+-76.97709117,38.88671688,Stadium-Armory,https://www.wmata.com/rider-guide/stations/stadium-armory.cfm,"blue, orange, silver"
+-77.15688535,38.88596094,East Falls Church,https://www.wmata.com/rider-guide/stations/e-falls-church.cfm,"orange, silver"
+-77.0158705,38.88508014,Federal Center SW,https://www.wmata.com/rider-guide/stations/federal-ctr-sw.cfm,"blue, orange, silver"
+-77.0051417,38.88507028,Capitol South,https://www.wmata.com/rider-guide/stations/capitol-south.cfm,"blue, orange, silver"
+-77.02191077,38.88484551,L'Enfant Plaza,https://www.wmata.com/rider-guide/stations/lenfant-plaza.cfm,"grn, yllw, orange, blue, slvr"
+-77.06281243,38.88469464,Arlington Cemetery,https://www.wmata.com/rider-guide/stations/arlington-cemetery.cfm,blue
+-76.9960034,38.88463005,Eastern Market,https://www.wmata.com/rider-guide/stations/eastern-market.cfm,"blue, orange, silver"
+-77.22716302,38.88363291,Dunn Loring Merrifield,https://www.wmata.com/rider-guide/stations/dunn-loring.cfm,orange
+-77.1029796,38.88337393,Virginia Square-GMU,https://www.wmata.com/rider-guide/stations/virginia-sq.cfm,"orange, silver"
+-77.11317115,38.88219065,Ballston-MU,https://www.wmata.com/rider-guide/stations/ballston.cfm,"orange, silver"
+-76.98549759,38.88127106,Potomac Ave,https://www.wmata.com/rider-guide/stations/potomac-ave.cfm,"blue, orange, silver"
+-77.27262462,38.8776089,Vienna Fairfax-GMU,https://www.wmata.com/rider-guide/stations/vienna.cfm,orange
+-77.00508793,38.87648887,Navy Yard-Ballpark,https://www.wmata.com/rider-guide/stations/navy-yard.cfm,green
+-77.01750749,38.87646965,Waterfront,https://www.wmata.com/rider-guide/stations/waterfront.cfm,green
+-77.05371797,38.86947048,Pentagon,https://www.wmata.com/rider-guide/stations/pentagon.cfm,"blue, yellow"
+-76.99537301,38.8629709,Anacostia,https://www.wmata.com/rider-guide/stations/anacostia.cfm,green
+-77.05954122,38.86189016,Pentagon City,https://www.wmata.com/rider-guide/stations/pentagon-city.cfm,"blue, yellow"
+-77.0502921,38.8579121,Crystal City,https://www.wmata.com/rider-guide/stations/crystal-city.cfm,"blue, yellow"
+-77.04404458,38.85342416,Ronald Reagan Washington National Airport,https://www.wmata.com/rider-guide/stations/national-airport.cfm,"blue, yellow"
+-76.95626497,38.85130916,Naylor Road,https://www.wmata.com/rider-guide/stations/naylor-rd.cfm,green
+-76.9885142,38.84566548,Congress Heights,https://www.wmata.com/rider-guide/stations/congress-hghts.cfm,green
+-76.93187241,38.84397233,Suitland,https://www.wmata.com/rider-guide/stations/suitland.cfm,green
+-76.97505641,38.84109356,Southern Ave,https://www.wmata.com/rider-guide/stations/southern-ave.cfm,green
+-76.91146646,38.82645412,Branch Ave,https://www.wmata.com/rider-guide/stations/branch-ave.cfm,green
+-77.05366986,38.81415144,Braddock Road,https://www.wmata.com/rider-guide/stations/braddock-rd.cfm,"blue, yellow"
+-77.0608135,38.80659388,King St-Old Town,https://www.wmata.com/rider-guide/stations/king-street.cfm,"blue, yellow"
+-77.07087668,38.80043321,Eisenhower Ave,https://www.wmata.com/rider-guide/stations/eisenhower-ave.cfm,yellow
+-77.12911384,38.79931543,Van Dorn Street,https://www.wmata.com/rider-guide/stations/van-dorn-st.cfm,"blue, yellow"
+-77.07520808,38.79392362,Huntington,https://www.wmata.com/rider-guide/stations/huntington.cfm,yellow
+-77.1679725,38.76652965,Franconia-Springfield,https://www.wmata.com/rider-guide/stations/franconia-sprngfld.cfm,"blue, yellow"

@@ -5,7 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <div id="google-map" class="google-map"></div>
 </head>
+<script>
+    function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(-77.01742,38.91872), //Set your latitude, longitude
+          zoom: 19,
+          mapTypeId: google.maps.MapTypeId.SATELLITE,
+          scrollwheel: false
+        }
+
+        var map = new google.maps.Map(document.getElementById('google-map'), mapOptions); // get the div by id
+
+        var ctaLayer = new google.maps.KmlLayer({
+          url: 'C:\Users\andre\Documents\GEOG 370\dev\GEOG370HW7\KMLMapHW7.kml' // Set the KML file
+        });
+
+        // attach the layer to the map
+        ctaLayer.setMap(map);
+    }
+
+    // load the map
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 <body>
     <h1 style="font-size:40px;">GEOG370HW7 - Andrew Bryant</h1>
     <img src="./HW7Map.png" width = "1500" height = "900" alt="">
